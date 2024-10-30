@@ -1,0 +1,54 @@
+# Copyright (C) 2017 Minimal Footnotes
+# This file is distributed under the same license as the Minimal Footnotes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Minimal Footnotes 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/minimal-"
+"footnotes\n"
+"POT-Creation-Date: 2017-04-17 12:09:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: src/class-main.php:113
+msgid "GitHub repository"
+msgstr ""
+
+#: src/class-settings.php:38
+msgid "Footnotes"
+msgstr ""
+
+#: src/class-settings.php:45
+msgid "Title text"
+msgstr ""
+
+#: src/class-settings.php:53
+msgid "Title tag"
+msgstr ""
+
+#: src/class-settings.php:66
+msgid "Control the appearance of your footnotes on posts."
+msgstr ""
+
+#: src/class-settings.php:79
+msgid "Leave empty to disable..."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Minimal Footnotes"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Simple footnotes for posts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mauro Bringolf"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://maurobringolf.ch"
+msgstr ""
